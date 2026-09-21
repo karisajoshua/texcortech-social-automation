@@ -1,0 +1,1 @@
+export default function Home(){return <main><h1>Texcortech Social Automation</h1><p>Secure Buffer publishing bridge for Texcortech Systems.</p><p>Use <code>/api/buffer/channels</code> to verify the Buffer connection after adding the environment variable.</p><p>The publishing endpoint is server-side only and requires an automation secret.</p></main>}
